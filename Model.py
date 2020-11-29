@@ -168,67 +168,6 @@ COLORS = [
 ]
 
 
-#Выпадающее меню выбора цвета
-#label_color = Label(root, text='Цвет', font='bold')
-#label_color.place(x=115, y=25)
-
-#variable_color = StringVar(root)
-#variable_color.set(COLORS[0]) # default value
-#color_menu = OptionMenu(root, variable_color, *COLORS,)
-#color_menu.place(x=105, y=45)
-
-
-
-#Поле ввода массы
-#label_mass = Label(root, text='Масса', font='bold')
-#label_mass.place(x=210, y=25)
-#entry_mass = Entry(root, width=10)
-#entry_mass.place(x=205, y=50)
-
-#Поле ввода радиуса
-#label_radius = Label(root, text='Радиус', font='bold')
-#label_radius.place(x=310, y=25)
-#entry_radius = Entry(root, width=10)
-#entry_radius.place(x=305, y=50)
-
-
-#Поля ввода коорднат
-#label_mass = Label(root, text='Координаты', font='bold')
-#label_mass.place(x=185, y=100)
-
-#label_x = Label(root, text='X')
-#label_x.place(x=120, y=130)
-#entry_x = Entry(root, width=10)
-#entry_x.place(x=135, y=130)
-
-#label_y = Label(root, text='Y')
-#label_y.place(x=245, y=130)
-#entry_y = Entry(root, width=10)
-#entry_y.place(x=260, y=130)
-
-#Поля ввода скоростей
-#label_velocity = Label(root, text='Скорость', font='bold')
-#label_velocity.place(x=190, y=200)
-
-#label_v_x = Label(root, text='Vx')
-#label_v_x.place(x=115, y=230)
-#entry_v_x = Entry(root, width=10)
-#entry_v_x.place(x=135, y=230)
-
-#label_v_y = Label(root, text='Vy')
-#label_v_y.place(x=240, y=230)
-#entry_v_y = Entry(root, width=10)
-#entry_v_y.place(x=260, y=230)
-
-
-#Sun1 = AstObj(30, 1.1, 'yellow', gr.Point(750, 500), gr.Point(0, 3))
-#Sun2 = AstObj(30, 1.1, 'orange', gr.Point(630, 500), gr.Point(0, -3))
-#Venus = AstObj(10, 0.000007, 'orange', gr.Point(470, 500), gr.Point(0, 5))
-#Earth = AstObj(10, 0.00001, 'green', gr.Point(350, 500), gr.Point(0, 4))
-#Mars = AstObj(10, 0.00000001, 'red', gr.Point(300, 500), gr.Point(0, 4))
-#Jupiter = AstObj(20, 0.00005, 'orange', gr.Point(200, 500), gr.Point(2, 6))
-#Astroobjects_Example = [Sun1, Sun2, Venus, Earth, Mars, Jupiter]
-
 #Описание объектов примера системы
 Sun = AstObj(30, 1.1, 'yellow', gr.Point(650, 500), gr.Point(0, 0))
 Mercury = AstObj(2, 0.000001, 'orange', gr.Point(600, 500), gr.Point(0, 7))
@@ -252,10 +191,7 @@ def object_parameters_entry():
     return New_Object
 
 
-#Кнопка для добавления объекта
-#btn_addobj = Button(root, text='Добавить объект', font="Bold")
-#btn_addobj.place(x=150, y=300)
-#btn_addobj.bind('<Button-1>', lambda event: (Astroobjects.append(object_parameters_entry()), btn_example.destroy(), drawlist()))
+
 
 #Функция, выводящая добавленных объект и его параметры в список
 def drawlist():

@@ -12,4 +12,8 @@ To calculate the trajectory of motion of bodies, we use Newton's second law and 
 
 ![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/Newton2.png)
 
+We calculate the potential energy for our case:
+
+![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/PotentialEnergy.png)
+
 

@@ -23,3 +23,12 @@ Acceleration of the first body on the OX-axis:
 The Y-axis acceleration and the second body acceleration are calculated in the same way. Then we get:
 
 ![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/Accelerationsfor2.png)
+
+The new velocities of each of the objects in a small time interval Δt are calculated using the increment:
+
+![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/Velocitiesfor2.png)
+
+Similarly, we calculate the new coordinates:
+
+![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/Coordsfor2.png)
+

@@ -16,8 +16,10 @@ The potential energy for our case:
 
 ![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/PotentialEnergy.png)
 
-Acceleration of the first body on the X-axis:
+Acceleration of the first body on the OX-axis:
 
 ![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/AccelerationXfor2.png)
 
+The Y-axis acceleration and the second body acceleration are calculated in the same way. Then we get:
 
+![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/Accelerationsfor2.png)

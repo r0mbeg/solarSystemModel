@@ -32,3 +32,11 @@ Similarly, we calculate the new coordinates:
 
 ![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/Coordsfor2.png)
 
+Calculating the acceleration of a body with the number i:
+
+![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/Accelerations.png)
+
+Calculating the coordinates of the body with the number i:
+
+![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/Coords.png)
+

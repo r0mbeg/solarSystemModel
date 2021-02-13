@@ -20,19 +20,19 @@ Acceleration of the first body on the OX-axis:
 
 ![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/AccelerationXfor2.png)
 
-The Y-axis acceleration and the second body acceleration are calculated in the same way. Then we get:
+The Y-axis acceleration and the second body acceleration are calculated in the same way (function 'update_acceleration_for2'). Then we get:
 
 ![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/Accelerationsfor2.png)
 
-The new velocities of each of the objects in a small time interval Δt are calculated using the increment:
+The new velocities of each of the objects in a small time interval Δt are calculated using the increment(function 'update_velocity'):
 
 ![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/Velocitiesfor2.png)
 
-Similarly, we calculate the new coordinates:
+Similarly, we calculate the new coordinates (function 'update_coords'):
 
 ![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/Coordsfor2.png)
 
-Calculating the acceleration of a body with the number i:
+Calculating the acceleration of a body with the number i (function 'update_acceleration):
 
 ![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/Accelerations.png)
 

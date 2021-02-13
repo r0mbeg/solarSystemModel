@@ -24,7 +24,7 @@ The Y-axis acceleration and the second body acceleration are calculated in the s
 
 ![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/Accelerationsfor2.png)
 
-The new velocities of each of the objects in a small time interval Δt are calculated using the increment(function `update_velocity`):
+The new velocities of each of the objects in a small time interval Δt are calculated using the increment (function `update_velocity`):
 
 ![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/Velocitiesfor2.png)
 

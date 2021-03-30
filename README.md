@@ -1,14 +1,12 @@
 # How to launch
 
+To run the code you need install the `graphics` and `tkinter` libraries.
+
 After you have run the file `Model.py` you will see a window:
 
-
+![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/interface.png)
 
 # Mathematical description
-A simple model of the Solar System.
-
-
-To run the code you need install the `graphics` and `tkinter` libraries.
 
 To solve the n-body problem, we first consider two bodies with masses m1 and m2, coordinates (x1, y1) and (x2,y2), and velocities (vx1, vy1) and (vx2,vy2):
 

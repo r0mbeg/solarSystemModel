@@ -1,4 +1,10 @@
-# solarSystemModel
+# How to launch
+
+After you have run the file `Model.py` you will see a window:
+
+
+
+# Mathematical description
 A simple model of the Solar System.
 
 

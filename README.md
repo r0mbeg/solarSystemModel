@@ -4,7 +4,7 @@ To run the code you need install the `graphics` and `tkinter` libraries
 
 After you have run the file `Model.py` you will see a window:
 
-![Image alt](D:\Documents\Programming\VSCode\starSystemHamiltonian\interface.png)
+![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/interface.png)
 
 In this window, you can click "Run the sample model" to run an example of a pre-created system or create your own, which will be shown below.
 

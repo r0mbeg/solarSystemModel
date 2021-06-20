@@ -34,7 +34,6 @@ After you finish configuring the interaction, click "Run model". You will see a 
 
 
 # Mathematical description
-A simple model of the Solar System.
 
 To solve the n-body problem, we first consider two bodies with masses m1 and m2, coordinates (x1, y1) and (x2,y2), and velocities (vx1, vy1) and (vx2,vy2):
 

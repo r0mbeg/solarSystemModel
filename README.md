@@ -28,7 +28,7 @@ If you want, here you can disable the gravitational interactions between the add
 
 After you finish configuring the interaction, click "Run model". You will see a window with the visualization:
 
-![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/run.png)
+![Image alt](https://github.com/r0mbeg/solarSystemModel/blob/master/FormulasAndImages/run.gif)
 
 
 

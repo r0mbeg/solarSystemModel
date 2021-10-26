@@ -41,7 +41,7 @@ To solve the n-body problem, we first consider two bodies with masses m1 and m2,
 
 To calculate the trajectory of motion of bodies, we use Newton's second law and the potential energy gradient:
 
-![Image alt](https://latex.codecogs.com/gif.latex?\vec{F}=m\vec{a}=-\frac{\partial&space;U}{\partial&space;r})
+![Image alt](https://latex.codecogs.com/gif.latex?\LARGE&space;\vec{F}=m\vec{a}=-\frac{\partial&space;U}{\partial&space;r})
 
 The potential energy for our case:
 
